@@ -40,7 +40,7 @@ Automatizar o fluxo de análise de dados de transações, incluindo:
 ## ▶️ Como executar
 
 ```bash
-git clone https://github.com/seu-usuario/automated_kpi_pipeline.git
+git clone https://github.com/izaabs/automated_kpi_pipeline.git
 cd automated_kpi_pipeline
 pip install pandas matplotlib
 python main.py
