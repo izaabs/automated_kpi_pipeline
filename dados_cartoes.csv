@@ -1,0 +1,11 @@
+id_transacao,data,cliente_id,valor,categoria,metodo_pagamento,status,regiao
+1,2026-01-01,1001,120.50,Alimentacao,Credito,Aprovado,Sudeste
+2,2026-01-01,1002,250.00,Eletronicos,Debito,Aprovado,Sul
+3,2026-01-02,1003,80.00,Transporte,Credito,Recusado,Sudeste
+4,2026-01-02,1001,45.90,Alimentacao,Debito,Aprovado,Nordeste
+5,2026-01-03,1004,500.00,Viagem,Credito,Aprovado,Sudeste
+6,2026-01-03,1002,60.00,Transporte,Debito,Aprovado,Sul
+7,2026-01-04,1005,300.00,Eletronicos,Credito,Aprovado,Centro-Oeste
+8,2026-01-04,1003,150.00,Alimentacao,Credito,Aprovado,Sudeste
+9,2026-01-05,1001,700.00,Viagem,Credito,Aprovado,Sudeste
+10,2026-01-05,1006,90.00,Transporte,Debito,Recusado,Nordeste
